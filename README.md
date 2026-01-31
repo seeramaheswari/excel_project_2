@@ -48,4 +48,7 @@
 **Checking how many customers purchased by weekday type**
 >=COUNTIF(Table1[Week_Day_Type],I18)
 
+![Image](https://github.com/user-attachments/assets/a40f38c2-1e8b-484f-be53-c7ace2bb73ac)
+![Image](https://github.com/user-attachments/assets/462974b8-d6a6-4865-86fc-b7077e53b4d4)
+![Image](https://github.com/user-attachments/assets/1212eac2-f3a9-4d8d-8b5c-743ad983ec91)
 ![Image](https://github.com/user-attachments/assets/2f92a41f-6f98-4b84-a82b-028902d1bbba)
