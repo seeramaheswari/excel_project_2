@@ -23,4 +23,8 @@
 **Checking full details of an customer using filter function**
 >=FILTER(Table14,Table14[OrderID]=C21)
 
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ea9c6a6e-5294-48c5-8fd0-09ae6a9e9410" />
+
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f4325413-8dc0-471e-948f-e9225d57fb6d" />
+
 
